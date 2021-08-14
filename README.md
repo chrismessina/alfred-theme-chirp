@@ -1,8 +1,6 @@
 # Chirp Powerpack Theme Collection for Alfred
 
-This is a collection of 18 [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) inspired by Twitter's [custom typeface Chirp](https://twitter.com/DerritDeRouen/status/1354548649561186306) and its [customizable view options](https://twitter.com/i/display):
-
-[![Customize your view](./assets/twitter-customize.png)](./assets/twitter-customize.png)
+This is a collection of 18 [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) inspired by Twitter's [custom typeface Chirp](https://twitter.com/DerritDeRouen/status/1354548649561186306) and its [customizable view options](https://twitter.com/i/display).
 
 [**Download Themes**](https://github.com/chrismessina/alfred-theme-chirp/releases/latest)
 
@@ -12,7 +10,7 @@ This theme uses the Chirp font, which is not available for public distribution. 
 
 Alternatively, since Chirp is just a custom version of Grilli Type's [GT America](https://www.grillitype.com/typeface/gt-america), you can [download a free trial](https://www.grillitype.com/free-trial-fonts) and use that. Once you've installed **GT America Trial Lt** and **GT America Trial Bd**, you can install the themes in the "GT America" folder. Note that the trial version of GT America doesn’t contain kerning, accents, alternate characters or other OpenType features.
 
-You can either double-click an `.alfredappearance` file to install it or use [@vitor](https://github.com/vitorgalvao)'s [Batch Theme Importer Workflow](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Batch%20Import%20Themes.alfredworkflow) to import them all at once.
+You can either double-click each `.alfredappearance` file to install it or use [@vitor](https://github.com/vitorgalvao)'s [Batch Theme Importer Workflow](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Batch%20Import%20Themes.alfredworkflow) to import them all at once.
 
 ## Previews
 
@@ -41,6 +39,12 @@ Only the Blue variant with Chirp is shown here.
 ## Sync your Alfred Theme with your System Appearance
 
 [![How to sync your Alfred theme to your System Appearance - Watch Video](./assets/loom.gif)](https://www.loom.com/share/d8eeb95b28474db991da7c6dbf2407a1)
+
+## Inspiration
+
+The different color variations match the options offered here:
+
+[![Customize your view](./assets/twitter-customize.png)](./assets/twitter-customize.png)
 
 ## Show your appreciation
 
