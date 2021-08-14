@@ -1,6 +1,6 @@
 # Chirp Powerpack Theme Collection for Alfred
 
-[Chirp](./assets/chirp.jpg)
+[![Chirp](./assets/chirp.jpg)](https://twitter.com/DerritDeRouen/status/1354548649561186306)
 
 This is a collection of 18 [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) inspired by Twitter's [custom typeface Chirp](https://twitter.com/DerritDeRouen/status/1354548649561186306) and its [customizable view options](https://twitter.com/i/display).
 
