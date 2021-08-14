@@ -42,7 +42,11 @@ Only the Blue variant with Chirp is shown here.
 
 ## Inspiration
 
-The different color variations match the options offered here:
+The design attempts to match Twitter's desktop search interface:
+
+[![Twitter Search](./assets/twitter-search.png)](./assets/twitter-search.png)
+
+The different color variations match the options found here:
 
 [![Customize your view](./assets/twitter-customize.png)](./assets/twitter-customize.png)
 
@@ -51,5 +55,7 @@ The different color variations match the options offered here:
 If you like the Alfred Workflows and Themes that I make, I invite you to participate in the $HASH economy! You can [purchase $HASH coins](https://chrismessina.me/coin) and earn rewards by joining the broader Rally Creator Community.
 
 ## About
+
+You can share your feedback or discuss this theme on [the Alfred Forum](https://www.alfredforum.com/topic/17228-18-new-themes-inspired-by-twitter-chirp/) or [on Twitter](https://twitter.com/chrismessina/status/1426675283222929410).
 
 This theme is unaffiliated with nor endorsed by Twitter, Inc. All trademarks are the property of their respective owners.
