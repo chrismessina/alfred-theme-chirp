@@ -8,9 +8,9 @@ This is a collection of 18 [Alfred Powerpack Themes](https://www.alfredapp.com/h
 
 ## Installation
 
-This theme uses the Chirp font, which is not available for public distribution. If you happen to obtain it, use the themes in the "Chirp" folder.
+This theme uses the Chirp font, which is not available for public distribution. If you happen to work for Twitter and have a license, you can use the themes in the "Chirp" folder.
 
-Alternatively, since Chirp is just a custom version of Grilli Type's [GT America](https://www.grillitype.com/typeface/gt-america), you can [download a free trial](https://www.grillitype.com/free-trial-fonts) and use that. Once you've installed **GT America Trial Lt** and **GT America Trial Bd**, you can install the themes in the "GT America" folder. Note that the trial version of GT America doesn’t contain kerning, accents, alternate characters or other OpenType features.
+Alternatively, since Chirp is just a custom version of Grilli Type's [GT America](https://www.grillitype.com/typeface/gt-america), you can [purchase GT America Standard Light and Bold weights](https://www.grillitype.com/cart?id=OA6uSY5E) and achieve a similar look. Once purchased, install those fonts, and then install the themes in the "GT America" folder.
 
 You can either double-click each `.alfredappearance` file to install it or use [@vitor](https://github.com/vitorgalvao)'s [Batch Theme Importer Workflow](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Batch%20Import%20Themes.alfredworkflow) to import them all at once.
 
